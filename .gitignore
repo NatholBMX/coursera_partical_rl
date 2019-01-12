@@ -76,3 +76,4 @@ debian/files
 *.substvars
 *.debhelper.log
 
+.idea/
